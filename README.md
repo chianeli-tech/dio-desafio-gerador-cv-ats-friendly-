@@ -1320,4 +1320,29 @@ simples → rápido → transparente → útil → confiável.
 
 Construa agora a aplicação completa seguindo todas as especificações acima.
 
+Link de publicação do Lovable
+
+https://pixel-perfect-showcase-2946.lovable.app
+
+Tela Inicial
+
+<img width="1669" height="868" alt="image" src="https://github.com/user-attachments/assets/1d9443a7-3454-40a0-b784-0d33f09ed1f2" />
+<img width="1694" height="524" alt="image" src="https://github.com/user-attachments/assets/3cf67756-2130-40c1-9462-5963ce52a94f" />
+
+Tela de Análise
+
+<img width="1444" height="556" alt="image" src="https://github.com/user-attachments/assets/7c47c0f7-5e4f-4091-8b43-427607e5697c" />
+
+
+Tela de Resultado da Análise
+
+<img width="1461" height="853" alt="image" src="https://github.com/user-attachments/assets/282a3bf7-0c6f-4f96-8dc4-b37fe372116d" />
+<img width="1431" height="518" alt="image" src="https://github.com/user-attachments/assets/8e6e66aa-9894-434c-83ad-5570462859ad" />
+<img width="1445" height="674" alt="image" src="https://github.com/user-attachments/assets/14546c14-0bbf-4953-9288-94e5343e063f" />
+<img width="1441" height="579" alt="image" src="https://github.com/user-attachments/assets/24dcfff4-0114-4643-aa94-74e082e77e6e" />
+<img width="1427" height="790" alt="image" src="https://github.com/user-attachments/assets/c0b568f0-a179-4349-b7c3-58a3f574bab4" />
+<img width="1425" height="262" alt="image" src="https://github.com/user-attachments/assets/f36ce2e1-ee62-4256-ae74-0c9bef6ef044" />
+
+
+
 
